@@ -5,7 +5,7 @@
     <application
         android:name=".MyApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/hulk"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -13,7 +13,7 @@
         <meta-data android:name="xposedmodule"
             android:value="true"/>
         <meta-data android:name="xposeddescription"
-            android:value="wq dump dex"/>
+            android:value="hulk dump dex"/>
         <meta-data
             android:name="xposedminversion"
             android:value="42+"/>
